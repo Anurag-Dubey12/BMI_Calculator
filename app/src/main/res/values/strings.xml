@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="Title">Calculate Your BMI</string>
+    <string name="height">Height</string>
+    <string-array name="height_units">
+        <item>cm</item>
+        <item>in</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+
+    <string name="height_unit_prompt">Select height unit:</string>
+    <string name="weight_unit_prompt">Select weight unit:</string>
+
+</resources>
